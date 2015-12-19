@@ -167,7 +167,7 @@
                 <footer role="contentinfo">
                     <p class="left">管理系统v1.0</p>
 
-                    <p class="right">&copy; 2015 <a href="http://www.turnreal.net" target="_blank">Turneal</a></p>
+                    <p class="right">&copy; 2015 <a href="http://www.xinzou.net" target="_blank">Simon</a></p>
                 </footer>
             </div>
         </div>
